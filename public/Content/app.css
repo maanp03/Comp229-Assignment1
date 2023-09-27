@@ -1,0 +1,93 @@
+/* CSS 
+Maan Patel
+301290719
+September 23 2023
+
+*/
+.logo {
+  border-radius: 50%;
+    background-color:white;
+}
+
+.logo:hover {
+    background-color: lightgray;
+    border-radius: 50%;
+}
+
+.nav-link:hover{
+    background-color: lightgrey;
+}
+
+.homePic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 30%;
+  background-color: white;
+  border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn-primary {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.form-group {
+    margin-bottom: 2vh;
+}
+
+
+.img-fluid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    height: 430px;
+    width: 400px;
+    border-radius: 10px;
+
+}
+h3 {
+    margin-left: 50px;
+    margin-top: 50px;
+   border-radius: 10px;
+}
+
+h5 {
+    margin-left: 50px;
+    margin-top: 30px;
+   border-radius: 10px;
+}
+
+.fa-brands {
+    margin-left:47%;
+    margin-top: 80px;
+    color:rgb(58, 58, 215);
+
+
+     
+}
+
+.fa-github {
+    margin-left: 1%;
+    color:black;
+}
+
+.project3 {
+    background-color: black;
+}
+
+
